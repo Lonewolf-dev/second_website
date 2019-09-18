@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.top_box_width {
+  width : 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.bck_color_h1_p {
+  background-color: #5C33FF;
+}
+.box_1 {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+
+}
+.box_2 {
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+  
+}
+.text_align {
+  text-align: center;
+}
